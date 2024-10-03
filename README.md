@@ -34,5 +34,3 @@ This project is about building a simple banking system using Python, implementin
 - Further features and improvements may be added in later versions, including account management, interest rates, and more.
 
 ---
-
-Feel free to explore and contribute to the project!
